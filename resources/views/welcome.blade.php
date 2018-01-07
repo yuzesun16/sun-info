@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Yuze Sun</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -9,8 +9,8 @@
       integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw"
       crossorigin="anonymous">
 <link href='https://fonts.googleapis.com/css?family=Actor' rel='stylesheet'>
-<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css">
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap.min.css">
 
 <style>
     body, html {
@@ -148,42 +148,42 @@
             <div id="Web" class="w3-container menu w3-card">
                 <div id="content">
                     <div id="left">
-                        <h5>PHP</h5>
+                        <h4>PHP</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Laravel MVC Framework</h5>
+                        <h4>Laravel MVC Framework</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>HTML5 & CSS3</h5>
+                        <h4>HTML5 & CSS3</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>JavaScript & JQuery</h5>
+                        <h4>JavaScript & JQuery</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>BootStrap</h5>
+                        <h4>BootStrap</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Python</h5>
+                        <h4>Python</h4>
                         <p class="w3-text-grey">1 Years Experience</p>
                     </div>
 
                     <div id="right">
-                        <h5>Selenium</h5>
+                        <h4>Selenium</h4>
                         <p class="w3-text-grey">1 Year Experience</p><br>
 
-                        <h5>Git</h5>
+                        <h4>Git</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Agile Management</h5>
+                        <h4>Agile Management</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Mockups</h5>
+                        <h4>Mockups</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Apache</h5>
+                        <h4>Apache</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Heroku</h5>
+                        <h4>Heroku</h4>
                         <p class="w3-text-grey">2 Years Experience</p>
                     </div>
                 </div>
@@ -192,30 +192,30 @@
             <div id="Database" class="w3-container menu w3-card">
                 <div id="content">
                     <div id="left">
-                        <h5>MySQL</h5>
+                        <h4>MySQL</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>PostgresSQL</h5>
+                        <h4>PostgresSQL</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>clearDB</h5>
+                        <h4>clearDB</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Data Analysis</h5>
+                        <h4>Data Analysis</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
                     </div>
 
                     <div id="right">
-                        <h5>NoSQL</h5>
+                        <h4>NoSQL</h4>
                         <p class="w3-text-grey">1 Year Experience</p><br>
 
-                        <h5>Database Design</h5>
+                        <h4>Database Design</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>Microsoft Visual Studio</h5>
+                        <h4>Microsoft Visual Studio</h4>
                         <p class="w3-text-grey">2 Years Experience</p><br>
 
-                        <h5>R</h5>
+                        <h4>R</h4>
                         <p class="w3-text-grey">1 Years Experience</p>
                     </div>
                 </div>
@@ -361,8 +361,9 @@
 
 <!-- Add Google Maps -->
 
-<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="//code.jquery.com/jquery-1.12.4.js"></script>
 <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap.min.js"></script>
 
 <script>
 
